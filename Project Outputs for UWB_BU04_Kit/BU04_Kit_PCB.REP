@@ -1,0 +1,449 @@
+*************************************************************
+FileName = BU04_Kit_PCB.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : BU04_Kit_PCB.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : BU04_Kit_PCB.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : BU04_Kit_PCB.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : BU04_Kit_PCB.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : BU04_Kit_PCB.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : BU04_Kit_PCB.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : BU04_Kit_PCB.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : BU04_Kit_PCB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D27
+    D31
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : BU04_Kit_PCB.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : BU04_Kit_PCB.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : BU04_Kit_PCB.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : BU04_Kit_PCB.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : BU04_Kit_PCB.GM2
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Top Designator
+      File : BU04_Kit_PCB.GM3
+
+    Adding Layer      : Top Designator
+
+
+Used DCodes :
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Bottom Designator
+      File : BU04_Kit_PCB.GM4
+
+    Adding Layer      : Bottom Designator
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : BU04_Kit_PCB.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Component Outline
+      File : BU04_Kit_PCB.GM11
+
+    Adding Layer      : Top Component Outline
+
+
+Used DCodes :
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Outline
+      File : BU04_Kit_PCB.GM12
+
+    Adding Layer      : Bottom Component Outline
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : BU04_Kit_PCB.GM13
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : BU04_Kit_PCB.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D36
+    D49
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : BU04_Kit_PCB.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : BU04_Kit_PCB.GM20
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : BU04_Kit_PCB.GM21
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : BU04_Kit_PCB.GM23
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D35
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Center
+      File : BU04_Kit_PCB.GM24
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : BU04_Kit_PCB.GM
+
+
+Used DCodes :
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : BU04_Kit_PCB.GBR1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : BU04_Kit_PCB.GBR2
+
+
+Used DCodes :
+    D53
+    D54
+    D55
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : BU04_Kit_PCB.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D36
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : BU04_Kit_PCB.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D36
+*************************************************************
+

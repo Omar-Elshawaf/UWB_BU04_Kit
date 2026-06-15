@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=J-1
+Removed Pin From Net: NetName=NetC1_2 Pin=J-2
+Removed Pin From Net: NetName=NetC1_2 Pin=J-3
+Removed Pin From Net: NetName=NetC1_2 Pin=J-4
+Removed Pin From Net: NetName=NetC1_2 Pin=J-A12
+Removed Pin From Net: NetName=NetF1_1 Pin=J-B9
+Added Component: Designator=J1(FP-217175-0001-MFG)
+Added Pin To Net: NetName=NetC1_2 Pin=J1-1
+Added Pin To Net: NetName=NetC1_2 Pin=J1-2
+Added Pin To Net: NetName=NetC1_2 Pin=J1-3
+Added Pin To Net: NetName=NetC1_2 Pin=J1-4
+Added Pin To Net: NetName=NetC1_2 Pin=J1-A12
+Added Pin To Net: NetName=NetF1_1 Pin=J1-B9
+Added Pin To Net: NetName=NetJ1_A5 Pin=J1-A5
+Added Pin To Net: NetName=NetJ1_A5 Pin=R1_5.1K-1
+Added Net: Name=NetJ1_A5
+Added Pin To Net: NetName=NetJ1_B5 Pin=J1-B5
+Added Pin To Net: NetName=NetJ1_B5 Pin=R2_5.1K-1
+Added Net: Name=NetJ1_B5
+Added Member To Class: ClassName=BU04_Kit_Sch Member=Component J1 217175-0001

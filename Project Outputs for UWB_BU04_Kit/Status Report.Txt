@@ -1,0 +1,41 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [UWB_BU04_Kit.PrjPcb]
+   Generated File[BU04_Kit_PCB.GTL]
+   Generated File[BU04_Kit_PCB.GBL]
+   Generated File[BU04_Kit_PCB.GPB]
+   Generated File[BU04_Kit_PCB.GPT]
+   Generated File[BU04_Kit_PCB.GTO]
+   Generated File[BU04_Kit_PCB.GBO]
+   Generated File[BU04_Kit_PCB.GTS]
+   Generated File[BU04_Kit_PCB.GBS]
+   Generated File[BU04_Kit_PCB.GTP]
+   Generated File[BU04_Kit_PCB.GBP]
+   Generated File[BU04_Kit_PCB.GKO]
+   Generated File[BU04_Kit_PCB.GM1]
+   Generated File[BU04_Kit_PCB.GM2]
+   Generated File[BU04_Kit_PCB.GM3]
+   Generated File[BU04_Kit_PCB.GM4]
+   Generated File[BU04_Kit_PCB.GM5]
+   Generated File[BU04_Kit_PCB.GM11]
+   Generated File[BU04_Kit_PCB.GM12]
+   Generated File[BU04_Kit_PCB.GM13]
+   Generated File[BU04_Kit_PCB.GM15]
+   Generated File[BU04_Kit_PCB.GM16]
+   Generated File[BU04_Kit_PCB.GM20]
+   Generated File[BU04_Kit_PCB.GM21]
+   Generated File[BU04_Kit_PCB.GM23]
+   Generated File[BU04_Kit_PCB.GM24]
+   Generated File[BU04_Kit_PCB.GM]
+   Generated File[BU04_Kit_PCB.GBR1]
+   Generated File[BU04_Kit_PCB.GBR2]
+   Generated File[BU04_Kit_PCB.GD1]
+   Generated File[BU04_Kit_PCB.GG1]
+   Generated File[BU04_Kit_PCB.EXTREP]
+   Generated File[BU04_Kit_PCB.REP]
+
+
+Files Generated   : 32
+Documents Printed : 0
+
+Finished Output Generation At 7:16:50 PM On 6/8/2026

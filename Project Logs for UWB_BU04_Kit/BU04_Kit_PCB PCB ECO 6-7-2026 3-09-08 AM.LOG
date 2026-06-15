@@ -1,0 +1,10 @@
+Added Component: Designator=J(FP-217175-0001-MFG)
+Added Pin To Net: NetName=NetC1_2 Pin=J-1
+Added Pin To Net: NetName=NetC1_2 Pin=J-2
+Added Pin To Net: NetName=NetC1_2 Pin=J-3
+Added Pin To Net: NetName=NetC1_2 Pin=J-4
+Added Pin To Net: NetName=NetJ_A5 Pin=J-A5
+Added Pin To Net: NetName=NetC1_2 Pin=J-A12
+Added Pin To Net: NetName=NetJ_B5 Pin=J-B5
+Added Pin To Net: NetName=NetF1_1 Pin=J-B9
+Added Member To Class: ClassName=BU04_Kit_Sch Member=Component J 1

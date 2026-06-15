@@ -1,0 +1,19 @@
+Removed Member From Class: ClassName=BU04_Kit_Sch Member=D1
+Added Component: Designator=LED1(5730-LED)
+Add component (AddParameter): Name = "Contributor"; Value = "wystewart"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "5730-LED"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(5730-LED)
+Add component (AddParameter): Name = "Contributor"; Value = "wystewart"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "5730-LED"; VariantName = "[No Variations]"
+Added Component: Designator=LED3(5730-LED)
+Add component (AddParameter): Name = "Contributor"; Value = "wystewart"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "5730-LED"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=BU04_Kit_Sch Member=Component LED1 5730-LED
+Added Member To Class: ClassName=BU04_Kit_Sch Member=Component LED2 5730-LED
+Added Member To Class: ClassName=BU04_Kit_Sch Member=Component LED3 5730-LED

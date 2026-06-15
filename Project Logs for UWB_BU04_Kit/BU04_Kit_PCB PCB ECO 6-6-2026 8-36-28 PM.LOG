@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetC1_1 Pin=J?-A9
+Added Pin To Net: NetName=NetC1_2 Pin=J?-A12
+Added Pin To Net: NetName=NetC1_1 Pin=J?-B9
+Added Pin To Net: NetName=NetC1_2 Pin=J?-B12
+Added Member To Class: ClassName=BU04_Kit_Sch Member=Component J? 217175-0001
